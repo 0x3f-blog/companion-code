@@ -9,6 +9,7 @@ Code samples for [0x3f.blog](https://0x3f.blog/) posts.
 | [Why Benchmarks Lie](https://0x3f.blog/posts/first-things-first-why-benchmarks-lie/)           | [first-things-first/why-benchmarks-lie](first-things-first/why-benchmarks-lie/)                     |
 | [Enemies of Measurement](https://0x3f.blog/posts/first-things-first-enemies-of-measurement/)   | [first-things-first/enemies-of-measurement](first-things-first/enemies-of-measurement/)             |
 | [Coordinated Omission](https://0x3f.blog/posts/first-things-first-coordinated-omission/)       | [first-things-first/coordinated-omission](first-things-first/coordinated-omission/)                 |
+| [Statistics That Matter](https://0x3f.blog/posts/first-things-first-statistics-that-matter/)   | [first-things-first/statistics-that-matter](first-things-first/statistics-that-matter/)              |
 
 ## Requirements
 
